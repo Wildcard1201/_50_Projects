@@ -8,3 +8,4 @@ Skills covered:
 - transform translate(Y)
 - css variables
 - css state targeting: active, disabled, focus
+- event listeners
