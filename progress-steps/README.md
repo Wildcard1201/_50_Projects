@@ -9,3 +9,4 @@ Skills covered:
 - css variables
 - css state targeting: active, disabled, focus
 - event listeners
+- modifying class through js
