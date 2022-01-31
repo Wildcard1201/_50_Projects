@@ -6,3 +6,6 @@ Concepts Covered:
 - using font awesome icons
 - lorem100 emmet shortcut to populate dummy text
 - transform rotate, transform origin
+- z-index
+- translateX()
+- css direct next selector? ie. "ui li +li"
